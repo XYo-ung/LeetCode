@@ -1,7 +1,7 @@
 package com.hxy;
 
 
-public class Main {
+public class NShapeConversion {
     public static void main(String[] args) {
         String s = "Apalindromeisaword,phrase,number,orothersequenceofunitsthatcanbereadthesamewayineitherdirection,withgeneralallowancesforadjustmentstopunctuationandworddividers.";
         String convert = convert(s, 4);
