@@ -11,6 +11,7 @@
     <modules>
         <module>N-shapeConversion</module>
         <module>Integer-Inversion</module>
+        <module>StringConversionInteger</module>
     </modules>
 
     <properties>
