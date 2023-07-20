@@ -14,6 +14,8 @@
         <module>StringConversionInteger</module>
         <module>PalindromicNumber</module>
         <module>RomanNumerals2WholeNumbers</module>
+        <module>PcmPlayer</module>
+        <module>Integers2RomanNumerals</module>
     </modules>
 
     <properties>
